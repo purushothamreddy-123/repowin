@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_HUB_REPO = 'devanapurushotham/dpr'
+        DOCKER_HUB_REPO = 'purushothamdevana/nginx1'
         DOCKER_HUB_CREDENTIALS = 'dockerimg'
     }
 
