@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKER_HUB_REPO = 'devanapurushotham/dpr'
-        DOCKER_HUB_CREDENTIALS = 'dockerid'
+        DOCKER_HUB_CREDENTIALS = 'dockerimg'
     }
 
     stages {
